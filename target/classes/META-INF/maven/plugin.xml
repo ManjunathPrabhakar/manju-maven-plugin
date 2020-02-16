@@ -25,7 +25,18 @@
       <instantiationStrategy>per-lookup</instantiationStrategy>
       <executionStrategy>once-per-session</executionStrategy>
       <threadSafe>false</threadSafe>
-      <parameters/>
+      <parameters>
+        <parameter>
+          <name>Some Commands</name>
+          <type>java.lang.String</type>
+          <required>false</required>
+          <editable>true</editable>
+          <description></description>
+        </parameter>
+      </parameters>
+      <configuration>
+        <Some Commands implementation="java.lang.String" default-value="DEFAULT COMMAND MANJUNATH"/>
+      </configuration>
     </mojo>
   </mojos>
   <dependencies/>

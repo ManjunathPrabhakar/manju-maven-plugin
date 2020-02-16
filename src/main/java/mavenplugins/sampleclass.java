@@ -11,7 +11,7 @@ import org.apache.maven.project.MavenProject;
 @Mojo(name = "version"/*, defaultPhase = LifecyclePhase.INITIALIZE*/)
 public class sampleclass extends AbstractMojo{
 
-    @Parameter(name = "Some Commands", defaultValue = "DEFAULT COMMAND MANJUNATH")
+    @Parameter(name = "command", defaultValue = "DEFAULT COMMAND MANJUNATH")
     public String command;
 
     @Override
