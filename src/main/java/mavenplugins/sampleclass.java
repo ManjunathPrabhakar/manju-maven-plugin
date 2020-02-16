@@ -8,7 +8,7 @@ import org.apache.maven.plugins.annotations.Mojo;
 import org.apache.maven.plugins.annotations.Parameter;
 import org.apache.maven.project.MavenProject;
 
-@Mojo(name = "version"/*, defaultPhase = LifecyclePhase.INITIALIZE*/)
+@Mojo(name = "version", defaultPhase = LifecyclePhase.INITIALIZE)
 public class sampleclass extends AbstractMojo{
 
     @Parameter(name = "command", defaultValue = "DEFAULT COMMAND MANJUNATH")

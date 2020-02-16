@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c4d154f-b28e-4ebf-ac1c-e51455e7676e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/usage-example/target/manju-usage-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usage-example/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.manjunath.exampleplugin/manju-maven-plugin/plugin-help.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mavenplugins/sampleclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mavenplugins/sampleclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mavenplugins/sampleclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mavenplugins/sampleclass1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.manjunath.exampleplugin/manju-maven-plugin/plugin-help.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/org.manjunath.exampleplugin/manju-maven-plugin/plugin-help.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mavenplugins/sampleclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mavenplugins/sampleclass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/mavenplugins/sampleclass1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/manju-maven-plugin-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/useful-pom/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/usage-example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/manju-maven-plugin-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/manju-maven-plugin-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usage-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/usage-example/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +41,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1XsGdkcJG0Pot9GP93hyvhfjuXQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/useful-pom" />
@@ -71,11 +77,30 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1581828012684">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1581828012684" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1581832337333">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581832337333" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1581832337332">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581832337332" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1581832337332">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581832337332" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1581832337333">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581832337333" />
     <state x="186" y="14" key="SettingsEditor" timestamp="1581828464366">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
