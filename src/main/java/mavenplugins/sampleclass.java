@@ -11,8 +11,12 @@ import org.apache.maven.project.MavenProject;
 @Mojo(name = "version"/*, defaultPhase = LifecyclePhase.INITIALIZE*/)
 public class sampleclass extends AbstractMojo{
 
+    @Parameter(name = "Some Commands", defaultValue = "DEFAULT COMMAND MANJUNATH")
+    public String command;
+
     @Override
     public void execute() throws MojoExecutionException, MojoFailureException {
-        getLog().info("Hello World");
+
+        getLog().info("Hello World : " + command);
     }
 }
