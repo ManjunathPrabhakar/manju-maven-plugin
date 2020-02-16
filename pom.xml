@@ -36,6 +36,25 @@
                 </plugin>
             </plugins>
         </pluginManagement>
+        <plugins>
+            <plugin>
+                <groupId>org.manjunath.exampleplugin</groupId>
+                <artifactId>manju-maven-plugin</artifactId>
+                <version>1.0-SNAPSHOT</version>
+                <configuration>
+                    <!-- optional, the command parameter can be changed here too -->
+                    <command>HELLO_COMMAND</command>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>version</goal>
+                            <goal>versions</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
     </build>
 
     <dependencies>

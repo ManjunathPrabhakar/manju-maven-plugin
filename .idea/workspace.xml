@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c4d154f-b28e-4ebf-ac1c-e51455e7676e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mavenplugins/sampleclass1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mavenplugins/sampleclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mavenplugins/sampleclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/org.manjunath.exampleplugin/manju-maven-plugin/plugin-help.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/org.manjunath.exampleplugin/manju-maven-plugin/plugin-help.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mavenplugins/sampleclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mavenplugins/sampleclass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/manju-maven-plugin-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/manju-maven-plugin-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mavenplugins" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
